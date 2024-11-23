@@ -26,4 +26,3 @@ arr.forEach(button=>{button.addEventListener("click",(e) =>{
       }
 )
 }
-)
